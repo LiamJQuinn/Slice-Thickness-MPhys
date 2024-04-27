@@ -29,12 +29,6 @@ Usage:
 6. Check the save location for the CSV file containing the results and the log file.
 7. The plot of thickness vs. depth will be displayed.
 
-TODO:
-- Add Pixel to MM calibration
-- Add a final frame pixel depth selector for this to calculate px to cm
-- Calculate pixel range between start of exclusion zone to end of capture area
-- Divide total distance by pixels to find this
-- Save csv of pixel data and the pixel to mm ratio in the log file!
 """
 
 import numpy as np
